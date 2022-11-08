@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&family=Poppins:wght@200;300;400;500;600;700&family=Rubik:wght@300;400;500;600&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    /* font-family: 'IBM Plex Sans', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+    /* transition: stroke-dasharray 0.3s; */
+}
+body{
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    overflow: hidden ;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Rubik', sans-serif;
+
+}
+
+.dots img svg path  .transrgwht{
+    stroke-dasharray:200;
+}
